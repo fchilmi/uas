@@ -1,0 +1,26 @@
+.jumb {
+   font-size: 30px;
+   padding: 150px;
+   background-position: center;
+   background-image:radial-gradient(circle, rgba(57, 106, 252, 0.8), rgba(41, 72, 255, 0.8)), url(../image/01.-Gedung-SD-Muh-15-.jpg);
+   background-size: cover;
+}
+.jumb h1{
+	text-align: center;
+}
+.jumb p{
+	text-align: center;
+	font-size: 35px;
+	transition: 2s;
+	font-family: roboto;
+}
+.content{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.footer{
+     padding: 20px;
+    background-color:skyblue ;
+    text-align: center;
+    font-size: 25px;
+}

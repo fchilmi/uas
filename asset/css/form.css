@@ -1,0 +1,30 @@
+.warning {color: #FF0000;}
+.sidebar{
+	position: fixed;
+	width: 250px;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	background-image: url("../image/side-1.png");
+	background-size: 500%;
+	padding-top: 50px;
+}
+.sidebar a{
+	display:block;
+	padding: 10px 20px;
+	color: #000;
+	text-decoration: none;
+	font-family: comic sans ms;
+	letter-spacing: 2px;
+	border: solid white;
+	background-color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.sidebar a.active {
+	background-color: #bbb;
+	border-color: solid #bbb;
+	color: white;
+	margin-left: 30px;
+	border: solid #bbb
+}
